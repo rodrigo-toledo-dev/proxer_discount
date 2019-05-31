@@ -1,0 +1,1 @@
+User.create!(email: 'rodrigo@rtoledo.inf.br', password: 'asdqwe123', password_confirmation: 'asdqwe123')
