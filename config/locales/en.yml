@@ -142,12 +142,18 @@ en:
       client:
         one: Cliente
         other: Clientes
-      project:
-        one: Projeto
-        other: Projetos
+      client_discount:
+        one: Desconto Associado
+        other: Descontos Associados
       device:
         one: Aparelho
         other: Aparelhos
+      discount:
+        one: Desconto
+        other: Descontos
+      partner:
+        one: Parceiro
+        other: Parceiros
     attributes:
       device:
         user: Usuário
