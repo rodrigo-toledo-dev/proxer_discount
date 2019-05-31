@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'users/index'
   devise_for :partners
   devise_for :clients
   devise_for :users

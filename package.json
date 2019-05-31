@@ -1,5 +1,6 @@
 {
   "name": "proxer_discount",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+  }
 }
